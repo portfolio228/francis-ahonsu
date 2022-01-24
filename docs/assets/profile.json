@@ -1,33 +1,30 @@
 {
-  "email": "olivierkpeku@gmail.com",
+  "email": "francis.ahonsou@gmail.com",
   "location": "Lomé, TOGO",
-  "name": "Wodi Komi KPEKU",
-  "phone": "+228 93 05 36 98",
-  "avatar": "assets/media/images/avatar.jpg",
+  "name": "Francis Kossi AHONSU",
+  "phone": "+228 92 18 13 51",
+  "avatar": "assets/media/images/avatar.JPG",
   "education": [
     {
-      "title": "MAITRISE EN GESTION COMMERCIALE ET FINANCIERE",
-      "meta": "I.A.E.C, Lomé, 2007"
+      "title": "Licence professionnelle en Systèmes Informatiques et  Logiciels",
+      "meta": "ESIBA Business school (membre de l'AUF), Lomé - TOGO, 2015 - 2018"
     },
     {
-      "title": "LICENCE EN GESTION COMMERCIALE ET FINANCIERE",
-      "meta": "I.A.E.C, Lomé, 2006"
-    },
-    {
-      "title": "BTS EN COMPTABILITE ET GESTION DES ENTREPRISES",
-      "meta": "OBTS, Lomé, 2005"
-    },
-    {
-      "title": "Baccalauréat technique serie G2",
-      "meta": "Office du bac, Lomé 2002"
+      "title": "Baccalauréat scientifique (série D - Science expérimentale)",
+      "meta": "Lyscée de Kpodzi, Kpalimé - TOGO, 2015"
     }
   ],
-  "about": "J'ai débuté ma carrière en tant qu'Agent Caissier de Banque. Huit ans après,\nResponsable et cadre de Banque. Aujourd'hui, forte de 13ans d'expériences avec la\n3è agence sous ma gestion. Tout ceci grâce à ma recherche de l'excellence en\ncontinue, à ma disponibilité, loyauté, intégrité, honnêteté, capacite d'organisation et\nd'adaptation, la bonne collaboration et l'esprit d'équipe. Mon objectif plutard est de\ncréer ma propre entreprise et j'y arriverai",
+  "about": "Jeune, dynamique, passionné, et orienté résultat, je suis développeur JAVA confirmé avec 4ans d'expériences",
   "socials": [
     {
-      "name": "olivierkpeku@gmail.com",
-      "link": "mailto:olivierkpeku@gmail.com",
+      "name": "francis.ahonsou@gmail.com",
+      "link": "mailto:francis.ahonsou@gmail.com",
       "icon": "fa fa-envelope"
+    },
+    {
+      "name": "LinkedIn",
+      "link": "https://www.linkedin.com/in/francis-ahonsou-940543182/",
+      "icon": "fab fa-linkedin"
     }
   ]
 }

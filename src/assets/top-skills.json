@@ -1,6 +1,34 @@
 {
   "top_skills": [
-    "Excel",
-    "Word"
+    "Windows",
+    "Linux",
+    "Java 8",
+    "Java FX",
+    "Java EE",
+    "Spring",
+    "SpringBoot",
+    "Spring Batch",
+    "Spring Intégration",
+    "JPA",
+    "Hibernate",
+    "Angular 6+",
+    "C++",
+    "Qt",
+    "Jenkins",
+    "Sonarqube",
+    "Nexus Repositories",
+    "Git",
+    "Gitlab",
+    "Katalon",
+    "Gatling",
+    "OpenProject",
+    "Maven",
+    "VMWare",
+    "Hyper-V",
+    "MySQL",
+    "SQL Server",
+    "PostgreSQL",
+    "Oracle DB",
+    "Wamp, Apache Tomcat"
   ]
 }
